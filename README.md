@@ -8,7 +8,7 @@ The most used Smart Contract Generator for ERC20 Token.
 
 ## Try it
 
-[https://vittominacori.github.io/erc20-generator](https://vittominacori.github.io/erc20-generator)
+[https://swaptok.github.io/erc20-generator](https://swaptok.github.io/erc20-generator)
 
 ## License
 
